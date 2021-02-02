@@ -16,7 +16,7 @@ jobs:
           password: ${{secrets.MAIL_PASSWORD}}
           subject: Ejercicio 2 github
           body:  Correo enviado desde ${{github.repository}}.
-          to: pespinas@imim.es
+          to: jmcarbo@imim.es
           from: Pau Espinás Romero
           content_type: text/html
           convert_markdown: true
