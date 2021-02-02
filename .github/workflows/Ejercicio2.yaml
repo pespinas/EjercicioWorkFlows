@@ -20,3 +20,4 @@ jobs:
           from: Pau Espinás Romero
           content_type: text/html
           convert_markdown: true
+          rejectUnauthorized: false
